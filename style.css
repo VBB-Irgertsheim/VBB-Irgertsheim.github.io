@@ -17,3 +17,12 @@ a {
   margin: 1%;
   text-decoration: none;
 }
+
+img.profile {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  border: 2px solid black;
+}
