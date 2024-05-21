@@ -2,10 +2,12 @@
 
 body {
   font-family: 'Courier Prime', monospace;
-  margin: 2%;
+  margin: 0;
   padding: 0;
   background-color: #4169E1;
   color: white;
+  margin-left: 2%;
+  margin-right: 2%;
 }
 
 header {
