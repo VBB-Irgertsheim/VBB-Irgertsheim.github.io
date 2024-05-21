@@ -1,0 +1,8 @@
+/*Include design changes for the body*/
+body {
+  font-family: 'Courier Prime', monospace;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: black;
+}
