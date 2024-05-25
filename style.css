@@ -20,6 +20,14 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  background-color: lightblue;
+  color: black;
+  cursor: pointer;
+  padding: 1px;
+  text-decoration: underline;
+}
+
 img {
   display: block;
   margin-left: auto;
