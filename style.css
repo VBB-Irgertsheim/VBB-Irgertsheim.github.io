@@ -62,6 +62,8 @@ button {
 button:hover {
   background-color: #eee; 
   color: #333;        
+  border: solid 1px white;
+  padding: 5px 10px;
 }
 
 #spielzeiten {
