@@ -45,7 +45,8 @@ a:hover {
   display: block;
   width: 60%;
   margin: auto;
-  border: 2px solid black;
+  border: 2px solid white;
+  border-radius: 5%;
 }
 
 button {
