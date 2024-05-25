@@ -52,11 +52,12 @@ section {
 }
 
 button {
-  background-color: transparent;
+  background-color: darkblue;
   border: solid 1px white;
   padding: 5px 10px;
   color: inherit;
   cursor: pointer;  /* indicates clickable element */
+  border: 2px solid black;
 }
 
 button:hover {
@@ -64,6 +65,7 @@ button:hover {
   color: #333;        
   border: solid 1px white;
   padding: 5px 10px;
+  border: 2px solid black;
 }
 
 #spielzeiten {
