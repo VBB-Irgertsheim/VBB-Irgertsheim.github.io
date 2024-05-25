@@ -13,6 +13,7 @@ body {
 header {
   text-align: center;
   padding: 1px;
+  border-bottom: 3px solid white;
 }
 
 h2 {
