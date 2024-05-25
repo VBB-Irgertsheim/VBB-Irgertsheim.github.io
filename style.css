@@ -46,3 +46,16 @@ img {
 section {
   padding: 2em;
 }
+
+button {
+  background-color: transparent;
+  border: none;
+  padding: 5px 10px;
+  color: inherit;
+  cursor: pointer;  /* indicates clickable element */
+}
+
+button:hover {
+  background-color: #eee; 
+  color: #333;        
+}
