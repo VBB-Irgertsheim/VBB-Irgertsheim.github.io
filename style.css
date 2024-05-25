@@ -48,10 +48,6 @@ a:hover {
   border: 2px solid black;
 }
 
-section {
-  padding: 2em;
-}
-
 button {
   background-color: #CD853F;
   border: solid 1px white;
@@ -67,6 +63,10 @@ button:hover {
   border: solid 1px white;
   padding: 5px 10px;
   border-radius: 10%;
+}
+
+section {
+  padding: 1em;
 }
 
 #spielzeiten {
