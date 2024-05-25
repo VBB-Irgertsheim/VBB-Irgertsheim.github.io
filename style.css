@@ -32,7 +32,7 @@ a:hover {
   text-decoration: underline;
 }
 
-logo {
+#logo {
   display: block;
   width: 30%;
   border-radius: 50%;
@@ -40,7 +40,7 @@ logo {
   border: 2px solid black;
 }
 
-vereinsbild {
+#vereinsbild {
   display: block;
   width: 30%;
   margin: auto;
