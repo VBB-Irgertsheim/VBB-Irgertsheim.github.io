@@ -52,7 +52,7 @@ a:hover {
 button {
   background-color: #CD853F;
   border: solid 1px white;
-  padding: 5px 10px;
+  padding: 1% 2%;
   color: inherit;
   cursor: pointer;  /* indicates clickable element */
   border-radius: 10%;
@@ -63,7 +63,7 @@ button:hover {
   background-color: #eee; 
   color: #333;        
   border: solid 1px white;
-  padding: 5px 10px;
+  padding: 1% 2%;
   border-radius: 10%;
   width: 100px;
 }
