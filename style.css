@@ -74,7 +74,7 @@ button {
   color: inherit;
   cursor: pointer;  /* indicates clickable element */
   border-radius: 10px;
-  width: 30%;
+  width: 25%;
   font-size: 1em;
 }
 
@@ -84,7 +84,7 @@ button:hover {
   border: solid 1px white;
   padding: 1% 2%;
   border-radius: 10px;
-  width: 30%;
+  width: 25%;
   font-size: 1em;
 }
 
