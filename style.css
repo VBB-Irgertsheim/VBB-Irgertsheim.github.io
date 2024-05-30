@@ -27,6 +27,7 @@ h2 {
 a {
   margin: 1%;
   color: white;
+  font-size: 2em;
 }
 
 a:hover {
@@ -35,6 +36,7 @@ a:hover {
   cursor: pointer;
   padding: 1px;
   text-decoration: underline;
+  font-size: 2em;
 }
 
 sportlink {
