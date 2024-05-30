@@ -37,6 +37,21 @@ a:hover {
   text-decoration: underline;
 }
 
+sportlink {
+  margin: 1%;
+  color: white;
+}
+
+sportlink:hover {
+  background-color: lightblue;
+  color: black;
+  cursor: pointer;
+  padding: 1px;
+  text-decoration: underline;
+}
+
+
+
 #logo {
   display: block;
   height: 30%;
