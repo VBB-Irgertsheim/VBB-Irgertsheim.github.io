@@ -83,7 +83,7 @@ button:hover {
   color: #333;        
   border: solid 1px white;
   padding: 1% 2%;
-  border-radius: 10%;
+  border-radius: 10 px;
   width: 100px;
 }
 
