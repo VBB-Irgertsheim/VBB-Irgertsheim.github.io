@@ -16,6 +16,10 @@ header {
   border-bottom: 3px solid white;
 }
 
+nav {
+font-size: 1em;
+}
+
 h2 {
   text-align: center;
 }
