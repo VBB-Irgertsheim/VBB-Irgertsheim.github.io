@@ -87,6 +87,12 @@ button:hover {
   font-size: 1.1em;
 }
 
+@media screen and (max-width: 768px) { /* Target screens less than 768px wide */
+  button {
+    font-size: 1.2em; /* Larger font size for mobile */
+  }
+}
+
 #spielzeiten {
   margin-left: 10%;
   margin-right: 10%;
