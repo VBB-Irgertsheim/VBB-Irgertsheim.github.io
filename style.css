@@ -70,7 +70,7 @@ sportlink:hover {
 button {
   background-color: #CD853F;
   border: solid 1px white;
-  padding: 1% 2%;
+  padding: 1% 5%;
   color: inherit;
   cursor: pointer;  /* indicates clickable element */
   border-radius: 10px;
