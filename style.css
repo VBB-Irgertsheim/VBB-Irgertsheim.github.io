@@ -75,7 +75,7 @@ button {
   color: inherit;
   cursor: pointer;  /* indicates clickable element */
   border-radius: 10px;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 button:hover {
@@ -84,7 +84,7 @@ button:hover {
   border: solid 1px white;
   padding: 1% 5%;
   border-radius: 10px;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 #spielzeiten {
