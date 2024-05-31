@@ -44,7 +44,7 @@ sportlink {
 }
 
 sportlink:hover {
-  background-color: lightblue;
+  background-color: orange;
   color: black;
   cursor: pointer;
   padding: 1px;
@@ -94,11 +94,13 @@ button:hover {
 }
 
 #sportportal {
-  margin: 5% 20% 5% 20%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 #contact {
-  margin: 5% 20% 5% 20%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 p {
