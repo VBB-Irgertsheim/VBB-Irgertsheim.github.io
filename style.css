@@ -75,7 +75,7 @@ button {
     cursor: pointer;
     /* indicates clickable element */
     border-radius: 10px;
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 
 button:hover {
@@ -84,20 +84,20 @@ button:hover {
     border: solid 1px rgb(16, 128, 180);
     padding: 2% 6%;
     border-radius: 10px;
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 
 @media (max-width: 768px) {
     /* Target screens less than 768px wide */
     button {
-        font-size: 1.25em;
+        font-size: 1.3em;
         /* Larger font size for mobile */
     }
 }
 
 @media (min-width: 769px) {
   button {
-    font-size: 1.0rem;
+    font-size: 1.5rem;
   }
 }
 
