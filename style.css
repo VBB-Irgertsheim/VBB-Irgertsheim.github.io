@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 body {
     font-family: 'Times New Roman', sans-serif;
     margin: 0;
@@ -9,11 +10,35 @@ body {
     margin-right: 2%;
 }
 
+p {
+  font-size: 1em;
+}
+
 header {
     text-align: center;
     padding: 1px;
     border-bottom: 3px solid white;
     font-size: 1.2em;
+}
+
+button {
+  background-color: #CD853F;
+  border: solid 1px white;
+  padding: 2% 5%;
+  color: inherit;
+  cursor: pointer;
+  /* indicates clickable element */
+  border-radius: 10px;
+  font-size: 1.0em;
+}
+
+button:hover {
+  background-color: #eee;
+  color: #333;
+  border: solid 1px white;
+  padding: 2% 5%;
+  border-radius: 10px;
+  font-size: 1.0em;
 }
 
 nav {
@@ -24,13 +49,13 @@ h2 {
     text-align: center;
 }
 
-.normallink {
+#normallink {
     margin: 1%;
     color: white;
     font-size: 1em;
 }
 
-.normallink:hover {
+#normallink:hover {
     background-color: orange;
     color: black;
     cursor: pointer;
@@ -55,49 +80,6 @@ h2 {
     border-radius: 5%;
 }
 
-button {
-    background-color: #CD853F;
-    border: solid 1px white;
-    padding: 2% 5%;
-    color: inherit;
-    cursor: pointer;
-    /* indicates clickable element */
-    border-radius: 10px;
-    font-size: 1.0em;
-}
-
-button:hover {
-    background-color: #eee;
-    color: #333;
-    border: solid 1px white;
-    padding: 2% 5%;
-    border-radius: 10px;
-    font-size: 1.0em;
-}
-
-@media (max-width: 768px) {
-    /* Target screens less than 768px wide */
-    button {
-        font-size: 1.3em;
-        /* Larger font size for mobile */
-    }
-}
-
-@media (min-width: 769px) {
-  button {
-    font-size: 1.0rem;
-    padding: 2% 5%;
-  }
-  button:hover {
-    background-color: #eee;
-    color: #333;
-    border: solid 1px white;
-    padding: 2% 5%;
-    border-radius: 10px;
-    font-size: 1.0rem;
-}
-}
-
 #spielzeiten {
     margin-left: 10%;
     margin-right: 10%;
@@ -119,6 +101,25 @@ button:hover {
     margin-botton: 2%;
 }
 
-p {
-    font-size: 1em;
+@media (max-width: 768px) {
+  /* Target screens less than 768px wide */
+  button {
+      font-size: 1.3em;
+      /* Larger font size for mobile */
+  }
+}
+
+@media (min-width: 769px) {
+button {
+  font-size: 1.0rem;
+  padding: 2% 5%;
+}
+button:hover {
+  background-color: #eee;
+  color: #333;
+  border: solid 1px white;
+  padding: 2% 5%;
+  border-radius: 10px;
+  font-size: 1.0rem;
+}
 }
