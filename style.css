@@ -50,6 +50,9 @@ h2 {
     text-align: center;
 }
 
+a {
+    color: white;
+}
 #normallink {
     color: white;
     font-size: 1em;
