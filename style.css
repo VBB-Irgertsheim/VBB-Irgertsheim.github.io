@@ -39,6 +39,7 @@ button:hover {
   padding: 2% 5%;
   border-radius: 10px;
   font-size: 1.1em;
+  transform: scale(1.2);
 }
 
 nav {
@@ -123,5 +124,6 @@ h2 {
     padding: 2% 5%;
     border-radius: 10px;
     font-size: 1.1rem;
+    transform: scale(1.2);
   }
 }
