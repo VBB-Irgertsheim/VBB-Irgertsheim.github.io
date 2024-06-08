@@ -90,7 +90,7 @@ button:hover {
 @media screen and (max-width: 768px) {
     /* Target screens less than 768px wide */
     button {
-        font-size: 1.2em;
+        font-size: 1.25em;
         /* Larger font size for mobile */
     }
 }
