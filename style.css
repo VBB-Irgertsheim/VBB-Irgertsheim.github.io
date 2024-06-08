@@ -95,6 +95,12 @@ button:hover {
     }
 }
 
+@media (min-width: 768px) {
+  button {
+    font-size: 1.0rem;
+  }
+}
+
 #spielzeiten {
     margin-left: 10%;
     margin-right: 10%;
