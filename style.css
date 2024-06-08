@@ -24,13 +24,13 @@ h2 {
     text-align: center;
 }
 
-sportlink {
+#normallink {
     margin: 1%;
     color: white;
     font-size: 1em;
 }
 
-sportlink:hover {
+#normallink:hover {
     background-color: orange;
     color: black;
     cursor: pointer;
