@@ -111,14 +111,12 @@ a {
 }
 
 @media (max-width: 768px) {
-  /* Target screens less than 768px wide */
     button {
-        font-size: 2em;
-        /* Larger font size for mobile */
+        font-size: 2rem;
     }
     #navlink {
-    color: #eee;
-    font-size: 2.4em;
+        color: #eee;
+        font-size: 2.4rem;
     }
 }
 
