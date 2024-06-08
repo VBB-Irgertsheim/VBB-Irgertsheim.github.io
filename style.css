@@ -98,6 +98,8 @@ button:hover {
 @media (min-width: 769px) {
   button {
     font-size: 1.5rem;
+    padding: 2% 4%;
+    
   }
 }
 
