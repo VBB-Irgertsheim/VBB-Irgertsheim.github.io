@@ -67,7 +67,8 @@ a {
 }
 
 #navlink {
-    #eee;
+    color: #eee;
+    font-size: 1.5em;
 }
 
 #logo {
