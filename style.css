@@ -24,12 +24,12 @@ header {
 button {
   background-color: #CD853F;
   border: solid 1px white;
-  padding: 2% 5%;
+  padding: 2% 4%;
   color: inherit;
   cursor: pointer;
   /* indicates clickable element */
   border-radius: 10px;
-  font-size: 1.0em;
+  font-size: 1.1em;
 }
 
 button:hover {
@@ -38,7 +38,7 @@ button:hover {
   border: solid 1px white;
   padding: 2% 5%;
   border-radius: 10px;
-  font-size: 1.0em;
+  font-size: 1.1em;
 }
 
 nav {
@@ -104,22 +104,22 @@ h2 {
 @media (max-width: 768px) {
   /* Target screens less than 768px wide */
   button {
-      font-size: 1.3em;
+      font-size: 1.5em;
       /* Larger font size for mobile */
   }
 }
 
 @media (min-width: 769px) {
-button {
-  font-size: 1.0rem;
-  padding: 2% 5%;
-}
-button:hover {
-  background-color: #eee;
-  color: #333;
-  border: solid 1px white;
-  padding: 2% 5%;
-  border-radius: 10px;
-  font-size: 1.0rem;
-}
+  button {
+    font-size: 1.1rem;
+    padding: 2% 4%;
+  }
+  button:hover {
+    background-color: #eee;
+    color: #333;
+    border: solid 1px white;
+    padding: 2% 5%;
+    border-radius: 10px;
+    font-size: 1.1rem;
+  }
 }
