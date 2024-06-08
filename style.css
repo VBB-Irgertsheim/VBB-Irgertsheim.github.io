@@ -70,7 +70,7 @@ sportlink:hover {
 button {
     background-color: #CD853F;
     border: solid 1px white;
-    padding: 2% 6%;
+    padding: 2% 5%;
     color: inherit;
     cursor: pointer;
     /* indicates clickable element */
@@ -81,8 +81,8 @@ button {
 button:hover {
     background-color: #eee;
     color: #333;
-    border: solid 1px rgb(16, 128, 180);
-    padding: 2% 6%;
+    border: solid 1px white;
+    padding: 2% 5%;
     border-radius: 10px;
     font-size: 1.0em;
 }
@@ -98,9 +98,16 @@ button:hover {
 @media (min-width: 769px) {
   button {
     font-size: 1.0rem;
-    padding: 2% 4%;
-    
+    padding: 2% 5%;
   }
+  button:hover {
+    background-color: #1a89c9;
+    color: #e0a142;
+    border: solid 1px rgb(16, 128, 180);
+    padding: 2% 5%;
+    border-radius: 10px;
+    font-size: 1.0rem;
+}
 }
 
 #spielzeiten {
