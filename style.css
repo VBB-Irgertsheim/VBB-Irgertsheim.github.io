@@ -114,6 +114,10 @@ a {
       font-size: 1.5em;
       /* Larger font size for mobile */
   }
+    #navlink {
+    color: #eee;
+    font-size: 2em;
+    }
 }
 
 @media (min-width: 769px) {
