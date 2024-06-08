@@ -113,6 +113,7 @@ a {
 @media (max-width: 768px) {
     button {
         font-size: 2rem;
+        padding: 2% 3%;
     }
     #navlink {
         color: #eee;
