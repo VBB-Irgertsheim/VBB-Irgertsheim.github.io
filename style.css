@@ -24,13 +24,13 @@ h2 {
     text-align: center;
 }
 
-#normallink {
+.normallink {
     margin: 1%;
     color: white;
     font-size: 1em;
 }
 
-#normallink:hover {
+.normallink:hover {
     background-color: orange;
     color: black;
     cursor: pointer;
