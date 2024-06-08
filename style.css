@@ -87,7 +87,7 @@ button:hover {
     font-size: 1.1em;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
     /* Target screens less than 768px wide */
     button {
         font-size: 1.25em;
@@ -95,7 +95,7 @@ button:hover {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   button {
     font-size: 1.0rem;
   }
