@@ -89,9 +89,9 @@ button:hover {
     padding: 2% 5%;
   }
   button:hover {
-    background-color: #1a89c9;
-    color: #e0a142;
-    border: solid 1px rgb(16, 128, 180);
+    background-color: #eee;
+    color: #333;
+    border: solid 1px white;
     padding: 2% 5%;
     border-radius: 10px;
     font-size: 1.0rem;
