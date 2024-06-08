@@ -1,119 +1,121 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-
 body {
-  font-family: 'Times New Roman', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #A0522D;
-  color: white;
-  margin-left: 2%;
-  margin-right: 2%;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #A0522D;
+    color: white;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 header {
-  text-align: center;
-  padding: 1px;
-  border-bottom: 3px solid white;
-  font-size: 1.2em;
+    text-align: center;
+    padding: 1px;
+    border-bottom: 3px solid white;
+    font-size: 1.2em;
 }
 
 nav {
-  font-size: 1.2em;
+    font-size: 1.2em;
 }
 
 h2 {
-  text-align: center;
+    text-align: center;
 }
 
 a {
-  color: white;
-  font-size: 1em;
+    color: white;
+    font-size: 1em;
 }
 
 a:hover {
-  background-color: orange;
-  color: black;
-  cursor: pointer;
-  padding: 1px;
-  text-decoration: underline;
-  font-size: 1em;
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+    padding: 1px;
+    text-decoration: underline;
+    font-size: 1em;
 }
 
 sportlink {
-  margin: 1%;
-  color: white;
+    margin: 1%;
+    color: white;
 }
 
 sportlink:hover {
-  background-color: orange;
-  color: black;
-  cursor: pointer;
-  padding: 1px;
-  text-decoration: underline;
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+    padding: 1px;
+    text-decoration: underline;
 }
 
 #logo {
-  display: block;
-  height: 30%;
-  border-radius: 50%;
-  margin: auto;
-  border: 2px solid black;
+    display: block;
+    height: 30%;
+    border-radius: 50%;
+    margin: auto;
+    border: 2px solid black;
 }
 
 #vereinsbild {
-  display: block;
-  width: 60%;
-  margin: auto;
-  border: 2px solid white;
-  border-radius: 5%;
+    display: block;
+    width: 60%;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 5%;
 }
 
 button {
-  background-color: #CD853F;
-  border: solid 1px white;
-  padding: 2% 8%;
-  color: inherit;
-  cursor: pointer;  /* indicates clickable element */
-  border-radius: 10px;
-  font-size: 1.1em;
+    background-color: #CD853F;
+    border: solid 1px white;
+    padding: 2% 6%;
+    color: inherit;
+    cursor: pointer;
+    /* indicates clickable element */
+    border-radius: 10px;
+    font-size: 1.1em;
 }
 
 button:hover {
-  background-color: #eee; 
-  color: #333;        
-  border: solid 1px white;
-  padding: 5% 5%;
-  border-radius: 10px;
-  font-size: 1.1em;
+    background-color: #1a89c9;
+    color: #e0a142;
+    border: solid 1px rgb(16, 128, 180);
+    padding: 2% 6%;
+    border-radius: 10px;
+    font-size: 1.1em;
 }
 
-@media screen and (max-width: 768px) { /* Target screens less than 768px wide */
-  button {
-    font-size: 1.2em; /* Larger font size for mobile */
-  }
+@media screen and (max-width: 768px) {
+    /* Target screens less than 768px wide */
+    button {
+        font-size: 1.2em;
+        /* Larger font size for mobile */
+    }
 }
 
 #spielzeiten {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 2%;
-  margin-botton: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-botton: 2%;
 }
 
 #sportportal {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 2%;
-  margin-botton: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-botton: 2%;
 }
 
 #contact {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 2%;
-  margin-botton: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-botton: 2%;
 }
 
 p {
-  font-size: 1em;
+    font-size: 1em;
 }
